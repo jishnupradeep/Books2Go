@@ -1,6 +1,6 @@
 # Books2Go
 
-![alt text](https://imgur.com/X8Iy8cR)
+![alt text](https://ibb.co/cLCWhn)
 
 An Android application for students to buy and sell textbooks using an Ebay-esque budding system.
 
